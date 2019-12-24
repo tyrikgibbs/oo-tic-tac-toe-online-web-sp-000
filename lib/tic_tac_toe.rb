@@ -121,7 +121,7 @@ def winner
     end
   end
 end
-end
+
 
 #play
 def play
