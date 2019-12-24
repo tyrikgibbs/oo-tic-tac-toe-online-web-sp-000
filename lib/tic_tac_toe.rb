@@ -121,7 +121,7 @@ def winner
     end
   end
 end
-
+end
 
 #play
 def play
@@ -135,4 +135,5 @@ def play
   end
 end
 
+end
 end
